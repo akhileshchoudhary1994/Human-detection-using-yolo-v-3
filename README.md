@@ -1,4 +1,6 @@
 # Human-detection-
+# Objective
+To design a surveillance system for army camp by using deep neural networks.
 
 # Yolo v3 model is used as an algorithm for human detection
 # cv2 Library is used for real time video capture. 
